@@ -24,6 +24,7 @@
     background-image: url('../img/vertti.jpg');
     padding: 0px;
     background-size: cover;
+    opacity: 0.8;
 }
 
 #vertti-color {
@@ -90,7 +91,7 @@
     background-image: url('../img/ritva.png');
     padding: 0px;
     background-size: cover;
-    ;
+    opacity: 1;
 }
 #ritva-color {
     background-color: #00006660;
